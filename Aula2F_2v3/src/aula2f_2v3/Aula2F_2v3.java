@@ -7,7 +7,7 @@ import java.util.Scanner;
 import java.io.*;
 /**
  *
- * @author beatr
+ * @author beatriz
  */
 public class Aula2F_2v3 {
 
